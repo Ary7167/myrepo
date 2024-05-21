@@ -1,1 +1,9 @@
+Contains the colab notebook links for generating sample text using the LLM module 
+
+1.) Generate text using model (without fine-tuning)
+
+
+2.) Generate text using model (with instruction fine-tuning)
+
+
 
