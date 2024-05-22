@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from MHA import MultiHeadAttention
+from multiheadattention import MultiHeadAttention
 # This would be the baseline working implementation of a lightweight version of an LLM which can be used for specific downstream tasks.
 # The model architecture is built based on the work behind the GPT model. Involves a decoder only architecture with causal attention.
 # The model is meant to be autoregressive for generation purposes, initially the model would be pre-trained on a large dataset.
