@@ -16,9 +16,7 @@ def token_ids_to_text(encoded_tensor,tokenizer):
 
     return decoded_text
 
-#the metrics we would be including for determining the efficiency of the model would be cross entropy and perplexity
 #the output of the model would be simply the probabilities of each word and we would be applying a sampling strategy to mitigate randomness as much as possible
-
 def generate_text_sample(LLM, idx, max_new_tokens, context_size):
     # idx is (batch, n_tokens) array of indices in the current context
       for _ in range(max_new_tokens):
