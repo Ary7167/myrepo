@@ -9,8 +9,8 @@ def text_to_token_ids(text,tokenizer):
 
     return encoded_tensor
 
-def token_ids_to_text(encoded_tensor,tokenizer):
-    flat= encoded_tensor.squeeze(0)
+def token_ids_to_text(token_ids,tokenizer):
+    flat= token_ids.squeeze(0)
     decoded_text= tokenizer.decode(flat.to_list())
 
     return decoded_text
