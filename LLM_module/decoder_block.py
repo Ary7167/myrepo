@@ -40,7 +40,7 @@ class GELU_activation(nn.Module):
            super().__init__()
 
       def forward(self,x):
-           return 0.5*x*(1+torch.tanh(torch.sqrt(2.0/torch.pi))*(x+0.044714*torch.pow(x,3)))
+           return torch.tensor(0.5*x*(1+torch.tanh(torch.sqrt(2.0/torch.pi))*(x+0.044714*torch.pow(x,3))))
 
 #implementing the feed forward module to be used in the transformer module
 
