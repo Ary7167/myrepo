@@ -71,10 +71,3 @@ def load_weights_into_llm(llm, params):
     llm.final_norm.scale = assign(llm.final_norm.scale, params["g"])
     llmt.final_norm.shift = assign(llm.final_norm.shift, params["b"])
     llm.out_head.weight = assign(llm.out_head.weight, params["wte"])
-    
-# load the weights into the model 
-load_weights_into_llm(llm, params)
-llm.to(device);
-
-# creating a function to save the model for later downstream tasks
-torch.save(llm.state_dict(),"pre-trained-model.pth")
