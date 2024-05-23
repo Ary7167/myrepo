@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformer_module import LayerNorm, TransformerBlock
+from .decoder_block import LayerNorm, TransformerBlock
 # implementing the final LLM block 
 class LLM(nn.module):
 
