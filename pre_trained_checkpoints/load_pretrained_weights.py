@@ -74,5 +74,5 @@ def load_weights_into_llm(llm, params):
             params["blocks"][b]["ln_2"]["b"])
 
     llm.final_norm.scale = assign(llm.final_norm.scale, params["g"])
-    llmt.final_norm.shift = assign(llm.final_norm.shift, params["b"])
+    llm.final_norm.shift = assign(llm.final_norm.shift, params["b"])
     llm.out_head.weight = assign(llm.out_head.weight, params["wte"])
