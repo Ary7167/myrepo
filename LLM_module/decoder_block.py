@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from MultiHeadAttention.multiheadattention import MultiHeadAttention
+from MultiHeadAttention.multiheadattention import Attention
 # This would be the baseline working implementation of a lightweight version of an LLM which can be used for specific downstream tasks.
 # The model architecture is built based on the work behind the GPT model. Involves a decoder only architecture with causal attention.
 # The model is meant to be autoregressive for generation purposes, initially the model would be pre-trained on a large dataset.
@@ -60,7 +60,7 @@ class FeedForward(nn.Module):
 class TransformerBlock(nn.Module):
     def __init__(self, cfg):
         super().__init__()
-        self.att = MultiHeadAttention(
+        self.att = Attention(
             d_in=cfg["emb_dim"],
             d_out=cfg["emb_dim"],
             context_length=cfg["context_length"],
