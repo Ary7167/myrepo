@@ -1,3 +1,3 @@
 import MultiHeadAttention
-import pre-trained-checkpoints
-import LLM-Module
+import pre_trained_checkpoints
+import LLM_Module
