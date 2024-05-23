@@ -1,14 +1,13 @@
 import torch
 import torch.nn as nn
 #configuration of model architecture:
-dict= {"vocab_size": 50257,    # Vocabulary size
-    "context_length": 1024, # Context length
-    "emb_dim": 768,         # Embedding dimension
-    "n_heads": 12,          # Number of attention heads
-    "n_layers": 12,         # Number of layers
-    "drop_rate": 0.1,       # Dropout rate
-    "qkv_bias": False       # Query-Key-Value bias
-    }
+#dict= {"vocab_size": 50257,    # Vocabulary size
+#   "emb_dim": 768,         # Embedding dimension
+#    "n_heads": 12,          # Number of attention heads
+#    "n_layers": 12,         # Number of layers
+#    "drop_rate": 0.1,       # Dropout rate
+#    "qkv_bias": False       # Query-Key-Value bias
+#   }
 # Given the compute constraints and the amount of data to be handled 124M parameter model is small compared to the present level of
 # model complexitites
 
