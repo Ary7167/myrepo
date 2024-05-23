@@ -4,7 +4,7 @@
 import numpy as np
 import torch
 import torch.nn as nn
-from gpt_weights_donwload import download_and_load_gpt2
+from .gpt_donwload_weights import download_and_load_gpt2
 
 
 # import the weights using the donwloads script
