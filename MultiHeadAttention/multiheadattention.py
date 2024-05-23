@@ -11,7 +11,7 @@ import torch.nn as nn
 # Given the compute constraints and the amount of data to be handled 124M parameter model is small compared to the present level of
 # model complexitites
 
-class MultiHeadAttention(nn.Module):
+class Attention(nn.Module):
     def __init__(self, d_in, d_out, context_length, dropout, num_heads, qkv_bias=False):
         super().__init__()
         assert d_out % num_heads == 0, "d_out must be divisible by num_heads"
