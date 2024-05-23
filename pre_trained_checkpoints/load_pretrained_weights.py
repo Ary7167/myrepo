@@ -77,4 +77,4 @@ load_weights_into_llm(llm, params)
 llm.to(device);
 
 # creating a function to save the model for later downstream tasks
-torch.save(llm.state_dict(),"pre-trained-model.pth"
+torch.save(llm.state_dict(),"pre-trained-model.pth")
