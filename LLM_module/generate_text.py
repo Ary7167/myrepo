@@ -2,7 +2,7 @@
 import torch
 import torch.nn as nn
 import tiktoken
-from LLM_module import LLM
+from .llm_module import LLM
 #implementing the text encoder and decoder to convert tokens to idx
 def text_to_token_ids(text,tokenizer):
     encoded_ids= tokenizer.encode(text,allowed_special="<|endoftext|>")
