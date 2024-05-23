@@ -35,7 +35,7 @@ class LayerNorm(nn.Module):
 
 #to utilize state of the art activations for better peformance we implement GELU 
 
-class GELU_activation(nn.module):
+class GELU_activation(nn.Module):
       def __init__(self):
            super().__init__()
 
