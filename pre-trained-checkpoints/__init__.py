@@ -1,2 +1,2 @@
 from pre-trained-checkpoints.gpt_weights_download import download_and_load_gpt2
-from load_pre-trained_weights import 
+from pre-trained-checkpoints.load_pre_trained_weights import load_weights_into_llm
