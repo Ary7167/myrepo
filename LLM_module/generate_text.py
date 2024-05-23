@@ -4,7 +4,7 @@ import torch.nn as nn
 from .llm_module import LLM
 #implementing the text encoder and decoder to convert tokens to idx
 def text_to_token_ids(text,tokenizer):
-    encoded_ids= tokenizer.encode(text,allowed_special="<|endoftext|>")
+    encoded_ids= tokenizer.encode(text,allowed_special={"<|endoftext|>"})
     encoded_tensor= torch.tensor(encoded_ids).unsqueeze(0)
 
     return encoded_tensor
