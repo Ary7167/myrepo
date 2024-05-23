@@ -76,3 +76,5 @@ def load_weights_into_llm(llm, params):
     llm.final_norm.scale = assign(llm.final_norm.scale, params["g"])
     llm.final_norm.shift = assign(llm.final_norm.shift, params["b"])
     llm.out_head.weight = assign(llm.out_head.weight, params["wte"])
+
+    return llm
