@@ -1,7 +1,6 @@
 #script to generate text given a context vector
 import torch
 import torch.nn as nn
-import tiktoken
 from .llm_module import LLM
 #implementing the text encoder and decoder to convert tokens to idx
 def text_to_token_ids(text,tokenizer):
