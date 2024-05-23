@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from .decoder_block import LayerNorm, TransformerBlock
 # implementing the final LLM block 
-class LLM(nn.module):
+class LLM(nn.Module):
 
       def __init__(self,cfg):
             super().__init__()
