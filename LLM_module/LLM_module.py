@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from transformer_module import LayerNorm, TransformerBlock
-# implementing the final LLM block 
+# implementing the final LLM block (single)
 class LLM(nn.module):
 
       def __init__(self,cfg):
