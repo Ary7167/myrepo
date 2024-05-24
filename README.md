@@ -11,3 +11,7 @@ The training can be divided into the follwing steps:
 Pre-trained weights and checkpoints of the GPT-2 model can be used for our architecture given the huge amount of corpus of text it has been trained on.
 Instruction Fine tuning can be commenced once the data has been prepared (since it is supervised fine tuning).
 
+# Notebooks for sample text generation 
+To generate sample text the notebook link has been shared 
+https://colab.research.google.com/drive/1wO_5Omp2rjddyoVjahDxPqIAAvkibhqp?usp=sharing
+
