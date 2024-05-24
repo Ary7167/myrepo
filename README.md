@@ -15,3 +15,4 @@ Instruction Fine tuning can be commenced once the data has been prepared (since 
 To generate sample text the notebook link has been shared 
 https://colab.research.google.com/drive/1wO_5Omp2rjddyoVjahDxPqIAAvkibhqp?usp=sharing
 
+# Fine-tuning to generate relevant responses
