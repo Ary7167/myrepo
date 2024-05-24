@@ -2,8 +2,8 @@
 name: text_module
 
 channels:
+- 
 
 dependencies:
  - pip:
- 
-
+   - tiktoken== 0.7.0
