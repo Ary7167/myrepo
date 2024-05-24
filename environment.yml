@@ -1,1 +1,9 @@
-# YAML file for including the configurations of the frameworks used
+# YAML file for including the configurations of the frameworks used and all the dependencies 
+name: text_module
+
+channels:
+
+dependencies:
+ - pip:
+ 
+
