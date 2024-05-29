@@ -63,83 +63,89 @@
            Pole  
            Mast
 
-14. Input- Identify all the accesories and equipments used in a shelter?
+14. Input- why is earthing important for a tower?
+    Answer- earthing is imprtant for a tower for providing controlled earthing at site.
+
+15. Input- Identify all the accesories and equipments used in a shelter?
+   Answer- the accesories and equipments used in a shelter are as follows:
+           Grounding
+           Door Canopy
+           Internal electrical
+           step ladder 
+           feeder 
+
+16. Input- what is the use of a marine ply in a shelter?
+   Answer- marine ply is used for the flooring of the shelter
+
+17. Input- what is a power interaface unit?
+   Answer- power interface unit or PIU is used in the telecom sector to convert a 3 phase AC power supply to a stabilized 230V, surge free AC power supply
+
+18. Input- what is the role of a auto phase unit in PIU?
+   Answer- the role of the auto phase unit in a PIU is to select two healthy phases out of three phases at any point of time.
+
+19. Input- what does line conditioner do in a PIU?
+   Answer- a line conditioner provides correction of mains in microseconds 
+
+20. Input- what is the role of lightening protector in PIU?
+   Answer- the lightening protector provides surge and lightening protection in a PIU
+
+21. Input- What happens if the site battery voltage goes below 47V DC?
+   Answer- If the site battery voltage goes below 47V DC then the generator battery would start
+
+22. Input- What are the primary differences between primary and secondary batteries?
+   Answer- primary batteries are used once and discarded while secondary batteries can be discharged and recharged multiple times 
+
+23. Input- what is the difference between a cell and a battery?
+   Answer- a cell is a single electrochemical unit while a battery is a collection of cells
+
+24. Input- what is a secondary battery?
+   Answer- a secondary battery can be discharged and recharged multiple times. The original composition of the electrode can be restored by reverse current.
+
+25. Input- explain the working of the VRLA battery?
    Answer- 
 
-15. Input- what is the use of a marine ply in a shelter?
+26. Input- what do you understand by the term K factor?
    Answer-
 
-16. Input- what is a power interaface unit?
+27. Input- How do you find a weak cell in a battery bank?
    Answer-
-
-17. Input- what is the role of a auto phase unit in PIU?
+28. Input- What is the full form of SMPS?
    Answer-
-
-18. Input- what does line conditioner do in a PIU?
+29. Input- What is the function of a Power plant in a telecom tower site?
    Answer-
-15. Input- what is the role of lightening protection in PIU?
+30. Input- What do you understand by the term hot swapability?
    Answer-
-16. Input- What happens if the site battery voltage goes below 47V DC?
+31. Input- What happens to rectifier when input voltages go low?
    Answer-
-17. Input- What are the primary differences between primary and secondary batteries?
+32. Input- why are two battery banks connected to a SMPS power plant?
    Answer-
-18. Input- what is the difference between a cell and a battery?
+33. Input- Why is earthing important for a telecom tower site?
    Answer-
-19. Input- what is a secondary battery?
+34. Input- why do we connect multiple earth pits together at a site?
    Answer-
-20. Input- explain the working of the VRLA battery?
+35. Input- what are the materials used for construction of an earth pit?
    Answer-
-21. Input- what do you understand by the term K factor?
+36. Input- mention the main parts of the DG set?
    Answer-
-22. Input- How do you find a weak cell in a battery bank?
+37. Input- Describe working of a four stroke engine?
    Answer-
-23. Input- What is the full form of SMPS?
+38. Input- what are the main fixes of a DG set?
    Answer-
-24. Input- What is the function of a Power plant in a telecom tower site?
+39. Input- what is the function of a fuel pump?
    Answer-
-25. Input- What do you understand by the term hot swapability?
+40. Input- what does white smoke coming out of a DG set indiciate?
    Answer-
-26. Input- What happens to rectifier when input voltages go low?
+41. Input- what is the minimum level of percentage of HSD in a diesel tank of DG?
    Answer-
-27. Input- why are two battery banks connected to a SMPS power plant?
+42. Input- for access related issues a tower technician will contct whom?
    Answer-
-28. Input- Why is earthing important for a telecom tower site?
+43. Input- who will collect the used lube oil from the tower site?
    Answer-
-29. Input- why do we connect multiple earth pits together at a site?
-   Answer-
-30. Input- what are the materials used for construction of an earth pit?
-   Answer-
-31. Input- mention the main parts of the DG set?
-   Answer-
-32. Input- Describe working of a four stroke engine?
-   Answer-
-33. Input- what are the main fixes of a DG set?
-   Answer-
-34. Input- what is the function of a fuel pump?
-   Answer-
-35. Input- what does white smoke coming out of a DG set indiciate?
-   Answer-
-36. Input- what is the minimum level of percentage of HSD in a diesel tank of DG?
-   Answer-
-37. Input- for access related issues a tower technician will contct whom?
-   Answer-
-39. Input- who will collect the used lube oil from the tower site?
-   Answer-
-40. Input- what is the function of a fault management alarm system?
+44. Input- what is the function of a fault management alarm system?
    Answer- 
-41. Input- what is the full form of ALV and ASM and where are they used?
+45. Input- what is the full form of ALV and ASM and where are they used?
    Answer-
-42. Input- 
-   Answer-
-43. Input-
-   Answer-
-44. Input-
-   Answer-
-45. Input-
-   Answer-
-46. Input-
-   Answer-
-47. Input-
+46. Input- 
    Answer-
 47. Input-
    Answer-
@@ -147,5 +153,15 @@
    Answer-
 49. Input-
    Answer-
-50. Input-
+51. Input-
+   Answer-
+52. Input-
+   Answer-
+53. Input-
+   Answer-
+54. Input-
+   Answer-
+55. Input-
+   Answer-
+56. Input-
    Answer-
