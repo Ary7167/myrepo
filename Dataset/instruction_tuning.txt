@@ -1,32 +1,81 @@
 # question answer dataset for fine-tuning LLM
 
-1. Input- what do you understand by the term tele communication?
+1. Input-  what do you understand by the term telecommunication?
+   Answer- Telecommunication is the exchange of information between individuals at distance using electronic products over a medium which could be wired
+           or wireless.
+
+2. Input-  what is a telecommunication arrangement made of?
+   Answer- a complete telecommunication arrangement system is made up of two or more stations with transmitter and reciever devices.
+
+3. Input- what is the difference between wireline and wireless communication?
+   Answer-In wired landline communication, the information is shared between the individuals with the help of a wired cable connection, whereas in 
+          wireless communication information is shared between the individuals using airwaves.
+
+4. Input- what are the various GSM and CDMA technologies used by telecom operators today?
+   Answer- 3G, 4G, 5G are some of the GSM and CDMA technologies used by telecom operators today
+
+5. Input- what are the components of a cellular network?
+   Answer- The components of a cellular network are:
+           Mobile station
+           Gateway
+           Base station
+           Databases
+           Security mechanism
+           Radio Wave standards
+
+6. Input- what are the various responsibilities of telecom tower technicians?
+   Answer-Ensuring compliance with safety regulations and on-site safety
+          Wokring at a height to fix telecom towers
+          Providing information about potential risks at telecom towers
+          Complying with operational requirements and using work checklists.
+
+7. Input- What are the components of a tower site?
+   Answer- Tower for installing radio
+           DG with canopy supplies
+           Shelter room 
+           Earth pit 
+           Power plant 
+           Battery Bank 
+
+8. Input- what is the role of a power plant?
+   Answer- The power plant converts AC to 24/48V DC
+
+9. Input- what is the role of a PIU unit?
+   Answer- PIU converts 3 stage AC supply to a stabilized 240V AC
+
+10. Input- what does grounding bus bar do?
+   Answer- grounding bus bar connects proper ground to various equipments and mechanical structures
+
+11. Input- what is a telecom tower?
+   Answer- The telecom tower is a tall and narrow structure used for sending and recieving electronic signals for radio and telephone networks.
+
+12. Input- mention five critical points which need to be looked at before finalizing a telecom tower site?
+   Answer- points to look at before finalizing a telecom tower site are
+           Access Road must be adequate to transport telecom material to the site 
+           Space limits must be adequate to house planned telecom material 
+           Tower must be tall enough to carry planned GSM &MW cameras
+           AC must be adequate to control indoor temperature 
+
+13. Input- what are the four types of towers used in telecom applications?
+   Answer- the four types of towers used in telecom applications are
+           GPT
+           RTT
+           Pole  
+           Mast
+
+14. Input- Identify all the accesories and equipments used in a shelter?
+   Answer- 
+
+15. Input- what is the use of a marine ply in a shelter?
    Answer-
-2. Input- what is the difference between wireline and wireless communication?
+
+16. Input- what is a power interaface unit?
    Answer-
-3. Input- what are the various GSM and CDMA technologies used by telecom operators today?
+
+17. Input- what is the role of a auto phase unit in PIU?
    Answer-
-4. Input- what is the role of a power plant?
-   Answer-
-5. Input- what is the role of a PIU unit?
-   Answer-
-6. Input- what does grounding bus bar do?
-   Answer-
-7. Input- what is a telecom tower?
-   Answer-
-8. Input- mention five critical points which need to be looked at before finalizing a telecom tower site?
-   Answer-
-9. Input- what are the four types of towers used in telecom applications?
-   Answer-
-10. Input- Identify all the accesories and equipments used in a shelter?
-   Answer-
-11. Input- what is the use of a marine ply in a shelter?
-   Answer-
-12. Input- what is a power interaface unit?
-   Answer-
-13. Input- what is the role of a auto phase unit in PIU?
-   Answer-
-14. Input- what does line conditioner do in a PIU?
+
+18. Input- what does line conditioner do in a PIU?
    Answer-
 15. Input- what is the role of lightening protection in PIU?
    Answer-
