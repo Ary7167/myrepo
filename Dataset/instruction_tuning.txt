@@ -75,56 +75,65 @@
            feeder 
 
 16. Input- what is the use of a marine ply in a shelter?
-   Answer- marine ply is used for the flooring of the shelter
+   Answer- marine ply is used for the flooring of the shelter.
 
 17. Input- what is a power interaface unit?
-   Answer- power interface unit or PIU is used in the telecom sector to convert a 3 phase AC power supply to a stabilized 230V, surge free AC power supply
+   Answer- power interface unit or PIU is used in the telecom sector to convert a 3 phase AC power supply to a stabilized 230V, surge free AC power supply.
 
 18. Input- what is the role of a auto phase unit in PIU?
    Answer- the role of the auto phase unit in a PIU is to select two healthy phases out of three phases at any point of time.
 
 19. Input- what does line conditioner do in a PIU?
-   Answer- a line conditioner provides correction of mains in microseconds 
+   Answer- a line conditioner provides correction of mains in microseconds.
 
 20. Input- what is the role of lightening protector in PIU?
-   Answer- the lightening protector provides surge and lightening protection in a PIU
+   Answer- the lightening protector provides surge and lightening protection in a PIU.
 
 21. Input- What happens if the site battery voltage goes below 47V DC?
-   Answer- If the site battery voltage goes below 47V DC then the generator battery would start
+   Answer- If the site battery voltage goes below 47V DC then the generator battery would start.
 
 22. Input- What are the primary differences between primary and secondary batteries?
-   Answer- primary batteries are used once and discarded while secondary batteries can be discharged and recharged multiple times 
+   Answer- primary batteries are used once and discarded while secondary batteries can be discharged and recharged multiple times.
 
 23. Input- what is the difference between a cell and a battery?
-   Answer- a cell is a single electrochemical unit while a battery is a collection of cells
+   Answer- a cell is a single electrochemical unit while a battery is a collection of cells.
 
 24. Input- what is a secondary battery?
    Answer- a secondary battery can be discharged and recharged multiple times. The original composition of the electrode can be restored by reverse current.
 
 25. Input- explain the working of the VRLA battery?
-   Answer- 
+   Answer- valve regulated lead acid batteries work on the prinicple of gel cells.
 
 26. Input- what do you understand by the term K factor?
-   Answer-
+   Answer- K factor is used to determine the available battery capacity at a particular discharge rate for a particular end cell voltage.
 
 27. Input- How do you find a weak cell in a battery bank?
-   Answer-
+   Answer- 
+
 28. Input- What is the full form of SMPS?
-   Answer-
+   Answer- The full form of SMPS is Switched mode power supply
+
 29. Input- What is the function of a Power plant in a telecom tower site?
-   Answer-
+   Answer- A power plant provides the required type of power as needed by the equipment in the telecom tower site
+
 30. Input- What do you understand by the term hot swapability?
-   Answer-
+   Answer- hot swapability refers to the parallel operation of power plants
+
 31. Input- What happens to rectifier when input voltages go low?
-   Answer-
+   Answer- 
+
 32. Input- why are two battery banks connected to a SMPS power plant?
    Answer-
+
 33. Input- Why is earthing important for a telecom tower site?
    Answer-
+
 34. Input- why do we connect multiple earth pits together at a site?
    Answer-
+
 35. Input- what are the materials used for construction of an earth pit?
    Answer-
+
 36. Input- mention the main parts of the DG set?
    Answer-
 37. Input- Describe working of a four stroke engine?
