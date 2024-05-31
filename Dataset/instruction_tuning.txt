@@ -135,9 +135,15 @@
    Answer-
 
 36. Input- mention the main parts of the DG set?
-   Answer-
+   Answer- The main parts of  DG set are as follows:
+           Air intake system
+           Engine Fuel system
+           Lubrication system
+           Air cooling system
+
 37. Input- Describe working of a four stroke engine?
    Answer-
+
 38. Input- what are the main fixes of a DG set?
    Answer-
 39. Input- what is the function of a fuel pump?
