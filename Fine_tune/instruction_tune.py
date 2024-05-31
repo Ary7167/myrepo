@@ -26,4 +26,5 @@ out_dir = 'outputs/gpt2_alpaca_preprocess_fn'
 instruction_tune_data= Dataloader('instruction_tune.json')
 
 # preprocess and tokenize the dataset using the byte pair tokenizer
-     
+
+# implement SFT trainer using the TRL library
