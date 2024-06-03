@@ -2,6 +2,7 @@
 import wandb
 import accelerate
 import trl 
+from trl.train import SFTTrainer, TrainingArguements
 import Datasets
 import os
 import torch
