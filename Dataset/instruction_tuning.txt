@@ -1,5 +1,5 @@
 # question answer dataset for fine-tuning LLM
-
+# this is just a sample dataset for generating supervised fine tuning data for instruction tuning, the following question were used as cues for GPT-4 to genrate 1000 questions for fine tuning
 1. Input-  what do you understand by the term telecommunication?
    Answer- Telecommunication is the exchange of information between individuals at distance using electronic products over a medium which could be wired
            or wireless.
@@ -159,24 +159,4 @@
 44. Input- what is the function of a fault management alarm system?
    Answer- 
 45. Input- what is the full form of ALV and ASM and where are they used?
-   Answer-
-46. Input- 
-   Answer-
-47. Input-
-   Answer-
-48. Input-
-   Answer-
-49. Input-
-   Answer-
-51. Input-
-   Answer-
-52. Input-
-   Answer-
-53. Input-
-   Answer-
-54. Input-
-   Answer-
-55. Input-
-   Answer-
-56. Input-
    Answer-
