@@ -1,17 +1,23 @@
+import vectordb
 from vectordb import Memory
+import argparse
 
-# Store all the content required to generate the text in the memory
+#create a vector store to keep all the relevant documents for usage
+memory =Memory(chunking_strategy={'mode':'sliding_window', 'window_size': 128, 'overlap': 16},embeddings=best)
 
-memory= Memory(chunking_strategy={"mode":},embeddings={"best"})
+#extract the text from the documents (document files can be of the type pdf,txt,https)
+with open(file_path,"r") as file:
+     content = file.read()
 
-# a function to load and chunk the relevant documents and store in the memory instance 
-def load_data(filepath,memory):
-    memory.save()
+# create arguments for the query and the filepath for uploading the documents
 
+texts.append()
+metadat_list.append()
 
-#define a function to generate an answer
-def generate_answer(memory,model,query):
-    output = memory.search(query,top_n=1)
-  
-   # augment the answer with the LLM model 
+# save the text 
+memory.save(memory.save(texts, metadata_list))
 
+# based on the query recieved
+results= memory.search(query,top_n=1,batch_results="flatten")
+
+# use the result as context to generate the answer
