@@ -10,9 +10,9 @@ with open(file_path,"r") as file:
      content = file.read()
 
 # create arguments for the query and the filepath for uploading the documents
-
-texts.append()
-metadat_list.append()
+query= " "
+texts.append(content)
+metadat_list.append(file_path)
 
 # save the text 
 memory.save(memory.save(texts, metadata_list))
