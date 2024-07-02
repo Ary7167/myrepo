@@ -18,6 +18,6 @@ metadat_list.append(file_path)
 memory.save(memory.save(texts, metadata_list))
 
 # based on the query recieved
-results= memory.search(query,top_n=1,batch_results="flatten")
+results= memory.search(query,top_n=5,batch_results="flatten")
 
 # use the result as context to generate the answer
